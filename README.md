@@ -27,4 +27,5 @@ Permite cargar empleados, asignarlos a obras, y mostrar sus datos.
 ## 👤 Autor
 
 Sebastián Scorini Wizenberg  
-[GitHub](https://github.com/cepita7) – [LinkedIn](https://www.linkedin.com/in/sebastian-scorini-wizenberg-0b596b268/)
+[GitHub](https://github.com/cepita7) – [LinkedIn](https://www.linkedin.com/in/sebastian-scorini-wizenberg/)
+
